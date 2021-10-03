@@ -36,8 +36,4 @@ optional arguments:
   
 ```
 
-![alt tag](https://emreovunc.com/projects/python_synflood_attack_cmd.png)
 
-![alt tag](https://emreovunc.com/projects/Syn_Flood_01.png)
-
-![alt tag](https://emreovunc.com/projects/Syn_Flood_02.png)
