@@ -1,4 +1,4 @@
-# Python3/BlackJack
+# Python3/BlackJackpy
 
 
 
