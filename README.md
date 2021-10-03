@@ -4,7 +4,7 @@
 
 BlackJack
 
-You can start BlackJack with these steps.
+You can start BlackJackpy with these steps.
 
 Simple and efficient.
 
