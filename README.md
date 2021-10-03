@@ -16,8 +16,8 @@ apt install python3
 ## Installation
 
 ```
-git clone https://github.com/DanielPickens/BlackJack---Python-version
-cd Python-BlackJack---Python-version
+git clone https://github.com/DanielPickens/BlackJackpy 
+cd Python-BlackJackpy
 ```
 
 ## Usage
